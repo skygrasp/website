@@ -1,0 +1,29 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  height: 100%;
+}
+
+header {
+  background-image: url(../img/funky-lines.png);
+  background-repeat: repeat;
+}
+
+header img {
+  max-width: 560px;
+}
+
+.fullscreen {
+  height: 100vh;
+}
+
+.row {
+  background: #f8f9fa;
+}
+
+.col {
+  border: solid 1px #6c757d;
+  padding: 10px;
+}
